@@ -24,7 +24,7 @@ body{
     background-image: url(weightlifting.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    background-position-x: -311px;
+    background-position-x: 0px;
     margin: -8px;
     display: grid;
     grid-template-columns: repeat(3,1fr);
