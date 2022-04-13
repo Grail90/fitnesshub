@@ -475,13 +475,13 @@ body{
  grid-column: 2/7;
  grid-row: 3/5;
  top: 51px;
- /* left: 117px; */
+ left: 113px;
 }
 
   #subscribebutton {
     grid-row: 3;
     height: 45px;
-    left: 177px;
+    left: 181px;
    top:25px;
 }
 
@@ -492,10 +492,11 @@ body{
   top:20px;
  }
 
- label{font-size: large;left: 59px;}
+ label{font-size: large;left: 59px;
+  bottom:5px;}
 
 
-#FirstNamelabel{grid-row:3;top: -57px;}
+#FirstNamelabel{grid-row:3;top: -60px;}
 
 
  /*texts*/
@@ -533,7 +534,7 @@ body{
  #one{
   z-index: 3;
   grid-row: 8;
-  top: 68px;
+  top: 81px;
   font-size: xx-large;
   left: 190px;
  }
@@ -544,7 +545,7 @@ body{
  top: -2px;
 }
 
- #running{grid-row: 22;grid-column: 3/7;left: 0;}
+ #running{grid-row: 22;grid-column: 3/7;left: -16px;}
 
 
                  /*LAST SECTION*/
@@ -567,9 +568,10 @@ body{
 
  h2{
   font-size: xx-large;
+   left:42px;
  }
 
- #finalbutton{grid-row: 7;top: 0px;grid-column: 3/6;left: 35px;width: 136px;height: 55px;font-size: large;}
+ #finalbutton{grid-row: 7;top: 0px;grid-column: 3/6;left: 58px;width: 136px;height: 55px;font-size: large;}
  
 
 
@@ -613,7 +615,8 @@ body{
 }
 
  label{
-  left: 109px;
+  left: 116px;
+   bottom:4px;
  }
 
 #subscribebutton{grid-column: 1/6;left: 102px;height: 61px;font-size: larger;font-weight: 600;top: 0px;text-align: center;}
@@ -644,11 +647,11 @@ body{
 
 
 #partner{
- left: 50px;
+ left: 31px;
 }
 
 #running{
- left: 50px;
+ left: 9px;
 }
 
 #text3{
