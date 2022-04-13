@@ -875,3 +875,23 @@ h2 {font-size: xxx-large;left: 83px;}
     left: 134px;
 }
 }
+
+
+@media screen and (min-width: 1200px){
+
+  label{
+  left:146px;
+  
+  }
+  #finalbutton {
+    left: 117px;
+}
+
+ #subscribebutton {
+    grid-column: 1/5;
+    left: 234px;
+  
+} 
+  
+  
+}
