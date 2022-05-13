@@ -678,7 +678,7 @@ font-size: xx-large;}
 
 #services{
  grid-column: 4/7;
- left: -118px;
+ left: -139px;
  top: 98px;
 font-size: 60px;}
 
@@ -948,4 +948,28 @@ h2 {font-size: xxx-large;left: 83px;}
 } 
   
   
+}
+
+
+@media screen and (min-width: 1320px){
+
+#one{
+
+left: -9px;font-size: xxx-large;}
+
+
+
+#partner{
+ left:39px;
+ font-size:xxx-large;
+}
+
+ #text2{
+  top:120px
+ }
+
+ #running{
+  font-size:xxx-large;
+ }
+
 }
